@@ -5,36 +5,13 @@ Welcome to the **Music Player** project! This is a GUI-based application that al
 
 ---
 
-## 💻 Features
+## ⚙️ Functionalities
 - **Play/Pause & Next/Previous**: Combined control buttons for simplified user interaction ⏯️⏪⏩.
 - **Volume Control**: An attractive, polished volume slider for better control of sound 🎚️.
 - **Playlist Management**: Create, load, and manage multiple playlists 🎶.
 - **Dark/Light Mode**: Switch between dark 🌑 and light 🌕 modes with a single button.
 - **Progress Bar**: Visual representation of the song's progress ⏳.
 - **Hover Effects**: Buttons change appearance when hovered for an enhanced user experience ✨.
-
-
----
-
-## ⚙️ Functionalities
-
-1. **Play/Pause**:
-   - Toggle between play and pause for seamless control of music tracks.
-
-2. **Next/Previous**:
-   - Navigate between songs in your playlist with ease.
-
-3. **Volume Slider**:
-   - Adjust the volume with a modern, polished slider 🎚️.
-
-4. **Playlist Management**:
-   - Add, remove, and load songs into a custom playlist.
-
-5. **Dark/Light Mode**:
-   - A button to easily toggle between the dark and light themes.
-
-6. **Progress Bar**:
-   - Track the progress of the current song visually with a dynamic progress bar ⏳.
 
 ---
 
